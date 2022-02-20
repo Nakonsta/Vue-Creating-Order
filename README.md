@@ -1,19 +1,18 @@
 # creating-order
 
-## Project setup
+## Для сборки выполнить
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Внешний вид проекта, который должен получиться после сборки
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Первый экран
+![screenshot of sample](screens/screen-1.png "Товары")
+
+Второй экран
+![screenshot of sample](screens/screen-2.png "Информация о пользователе")
+
+Третий экран
+![screenshot of sample](screens/screen-3.png "Подготовка к отправке")

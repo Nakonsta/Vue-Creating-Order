@@ -3,7 +3,7 @@
     <div id="nav">
       <stepper />
     </div>
-    <router-view/>
+    <router-view />
   </div>
 </template>
 
